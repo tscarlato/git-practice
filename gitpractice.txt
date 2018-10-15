@@ -1,2 +1,4 @@
+
 git practice two 
 changing back to master
+*on conflict went with master
